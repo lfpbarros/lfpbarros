@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3498DB&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3498DB&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Luis+Barros;Tenho+23+anos;Sou+Analista+de+Dados;E+Desenvolvedor+Python;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3498DB&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Luis+Barros;Tenho+24+anos;Sou+Analista+de+Dados;E+Desenvolvedor+Python;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lfpbarros&show_icons=true&count_private=true&hide_border=true&title_color=3498DB&icon_color=3498DB&text_color=3498DB&bg_color=0d1117" alt="Luis Felipe Barros github stats"/> 
